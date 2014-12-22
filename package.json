@@ -1,7 +1,7 @@
 {
   "name": "hubot-t-wada",
   "description": "A Hubot script to support your testing",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "bouzuya <m@bouzuya.net>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts",
